@@ -1,30 +1,24 @@
 class Solution {
 public:
-    bool isValid(std::string s) {
-        stack<char> brackets;
-
+    bool isValid(string s) {
+        stack<char> st;
         for (char c : s) {
             if (c == '(' || c == '{' || c == '[') {
-                brackets.push(c);
+                st.push(c);
             } 
             else {
-               
-                if (brackets.empty()) {
-                    return false; 
-                }
-                
-                char top = brackets.top(); 
-                
-                if ((c == ')' && top != '(') || 
-                    (c == '}' && top != '{') || 
-                    (c == ']' && top != '[')) {
-                    return false; 
-                }
-                
-                brackets.pop();
+                if (st.empty())
+                    return false;
+
+                if ((c == ')' && st.top() != '(') ||
+                    (c == '}' && st.top() != '{') ||
+                    (c == ']' && st.top() != '['))
+                    return false;
+
+                st.pop();
             }
         }
 
-        return brackets.empty();
+        return st.empty();
     }
 };
