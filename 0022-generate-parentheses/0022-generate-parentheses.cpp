@@ -1,33 +1,26 @@
 class Solution {
 public:
-    vector<string> generateParenthesis(int n) {
-        std::vector<std::string> rs;
-        std::string s;
-        GenParens(n, rs, s);
-        return rs;
-    }
-    
-private:
-    void GenParens(const int n,
-                   std::vector<std::string>& rs,
-                   std::string& current,
-                   int open = 0,
-                   int closed = 0) {
-        if (open == n && closed == n) {
-            rs.push_back(current);
+    void solve(int open, int close, int n, string &temp, vector<string> &ans) {
+        if (temp.size() == 2 * n) {
+            ans.push_back(temp);
             return;
         }
-        
         if (open < n) {
-            current += '(';
-            GenParens(n, rs, current, open + 1, closed);
-            current.pop_back();
+            temp.push_back('(');
+            solve(open + 1, close, n, temp, ans);
+            temp.pop_back();
         }
-        
-        if (closed < open) {
-            current += ')';
-            GenParens(n, rs, current, open, closed + 1);
-            current.pop_back();
+        if (close < open) {
+            temp.push_back(')');
+            solve(open, close + 1, n, temp, ans);
+            temp.pop_back();
         }
+    }
+
+    vector<string> generateParenthesis(int n) {
+        vector<string> ans;
+        string temp;
+        solve(0, 0, n, temp, ans);
+        return ans;
     }
 };
