@@ -16,7 +16,7 @@ public:
         ListNode* check=head;
         ListNode* nxt=nullptr;
         int cnt=0;
-        while(check && cnt<=k){
+        while(check && cnt<k){
             check=check->next;
             cnt++;
         }
