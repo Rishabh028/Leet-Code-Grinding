@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0054-spiral-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0054-spiral-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## String
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0033-search-in-rotated-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
