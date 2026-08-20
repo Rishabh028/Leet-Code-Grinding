@@ -1,25 +1,32 @@
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
-        vector<vector<int>> result(n, vector<int>(n));
-        int cnt = 1;
-        for (int layer = 0; layer < (n + 1) / 2; layer++) {
-            // direction 1 - traverse from left to right
-            for (int ptr = layer; ptr < n - layer; ptr++) {
-                result[layer][ptr] = cnt++;
-            }
-            // direction 2 - traverse from top to bottom
-            for (int ptr = layer + 1; ptr < n - layer; ptr++) {
-                result[ptr][n - layer - 1] = cnt++;
-            }
-            for (int ptr = n - layer - 2; ptr >= layer; ptr--) {
-                result[n - layer - 1][ptr] = cnt++;
-            }
-            for (int ptr = n - layer - 2; ptr > layer; ptr--) {
-                result[ptr][layer] = cnt++;
-            }
-        }
+        vector <vector <int>> mtx(n, vector <int> (n));
 
-        return result;
+        function <void(int, int, int)> gen = [&](int row, int col, int cur) {
+            if (row >= (n + 1) / 2 or col >= (n + 1) / 2)
+                return;
+            
+            for (int i = col; i < n - col; i++)
+                mtx[row][i] = cur++;
+            
+            for (int i = row + 1; i < n - row; i++)
+                mtx[i][n - col - 1] = cur++;
+            
+            if (row == n / 2 or col == n / 2)
+                return;
+            
+            for (int i = n - col - 2; i > col; i--)
+                mtx[n - row - 1][i] = cur++;
+            
+            for (int i = n - row - 1; i > row; i--)
+                mtx[i][col] = cur++;
+            
+            gen(row + 1, col + 1, cur);
+        };
+
+        gen(0, 0, 1);
+
+        return mtx;
     }
 };
