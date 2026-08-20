@@ -12,11 +12,9 @@ public:
             for (int ptr = layer + 1; ptr < n - layer; ptr++) {
                 result[ptr][n - layer - 1] = cnt++;
             }
-            // direction 3 - traverse from right to left
             for (int ptr = n - layer - 2; ptr >= layer; ptr--) {
                 result[n - layer - 1][ptr] = cnt++;
             }
-            // direction 4 - traverse from bottom to top
             for (int ptr = n - layer - 2; ptr > layer; ptr--) {
                 result[ptr][layer] = cnt++;
             }
