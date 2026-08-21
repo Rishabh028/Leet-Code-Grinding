@@ -1,8 +1,8 @@
 class Solution {
 public:
     string getPermutation(int n, int k) {
-        vector<int> numbers; //to store all the numers from 1->n
-        int fact = 1; //factorial calculation
+        vector<int> numbers;
+        int fact = 1;
 
         for(int i=1; i<n; i++){
             fact = fact * i;
@@ -11,11 +11,9 @@ public:
         numbers.push_back(n);
         string ans = "";
 
-        //to align with 0 index based
         k = k-1;
 
         while(1){
-            // to select the fixed ith index
             ans = ans + to_string(numbers[k/fact]);
 
             //delete the chosen number
