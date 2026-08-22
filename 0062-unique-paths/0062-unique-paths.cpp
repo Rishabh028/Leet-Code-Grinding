@@ -2,13 +2,17 @@ class Solution {
 public:
     int uniquePaths(int m, int n) {
         
-        int N = n+m-2;
-        int  R = m-1;
+        std::vector<int> dp(n, 1);
 
-        double res = 1;
-
-        for (int i = 1; i <= R; i++)
-            res = res*(N - R + i) / i;
-            return (int)res;
+        for (int i = 1; i < m; ++i) {
+            
+            for (int j = 1; j < n; ++j) {
+                
+                dp[j] = dp[j] + dp[j-1];
+            }
         }
+
+
+        return dp[n - 1];
+    }
 };
