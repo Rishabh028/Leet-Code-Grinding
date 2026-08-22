@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0097-interleaving-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
