@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0064-minimum-path-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0064-minimum-path-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## String
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0097-interleaving-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
