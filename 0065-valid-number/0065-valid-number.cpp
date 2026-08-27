@@ -1,48 +1,24 @@
 class Solution {
 public:
     bool isNumber(string s) {
-    bool seenDigit = false;
-        bool seenExponent = false;
-        bool seenDot = false;
-        int i = 0;
-        int n = s.length();
-
-        while (i < n && s[i] == ' ') {
-            i++;
-        }
-
-        if (i < n && (s[i] == '+' || s[i] == '-')) {
-            i++;
-        }
-
-        while (i < n) {
-            char c = s[i];
-            if (isdigit(c)) {
-                seenDigit = true;
-            } else if (c == '.') {
-                if (seenDot || seenExponent) {
-                    return false;
-                }
-                seenDot = true;
-            } else if (c == 'e' || c == 'E') {
-                if (seenExponent || !seenDigit) {
-                    return false;
-                }
-                seenExponent = true;
-                seenDigit = false; 
-                if (i + 1 < n && (s[i + 1] == '+' || s[i + 1] == '-')) {
-                    i++;
-                }
-            } else {
-                break; 
+        int n = s.size();
+        bool isdot = false, nums = false, ise = false;
+        for(int i=0; i<n; i++){
+            if(isdigit(s[i])) nums = true;
+            else if(s[i] == '+' || s[i] == '-'){
+                if(i > 0 && (s[i-1] != 'e' && s[i-1] != 'E')) return false;
             }
-            i++;
+            else if(s[i] == 'e' || s[i] == 'E'){
+                if(ise || !nums) return false;
+                ise = true;
+                nums = false;
+            }
+            else if(s[i] == '.'){
+                if(isdot || ise) return false;
+                isdot = true;
+            }
+            else return false;
         }
-
-        while (i < n && s[i] == ' ') {
-            i++;
-        }
-
-        return seenDigit && i == n;
+        return nums;
     }
 };
