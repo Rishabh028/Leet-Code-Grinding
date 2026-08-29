@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
