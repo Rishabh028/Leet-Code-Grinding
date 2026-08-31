@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0097-interleaving-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
