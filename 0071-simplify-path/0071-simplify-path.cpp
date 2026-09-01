@@ -1,32 +1,37 @@
 class Solution {
 public:
     string simplifyPath(string path) {
-        vector<string> p(1, "");
-        int i = 0, n = path.size();
-        while (i <= n) {
-            if (i == n || path[i] == '/') {
-                if (p.back() == ".") {
-                    p.back() = "";
+        vector<string> tokens;
+        string token;
+        int index = 0;
+            while(findNextToken(path, index, token)){
+                if(token == ".."){
+                    if(!tokens.empty()) tokens.pop_back();
+                } else if(token != "."){
+                    tokens.push_back(token);
                 }
-                else if (p.back() == "..") {
-                    p.pop_back();
-                    if (p.size())
-                        p.back() = "";
-                    else
-                        p.push_back("");
-                }
-                else if (p.back().size() > 0) 
-                    p.push_back("");
             }
-            else 
-                p.back() += path[i];;
-            ++i;
+
+        string canonicalPath = "";
+        for(const string& token : tokens){
+            canonicalPath += "/";
+            canonicalPath += token;
         }
-        if (p[0] == "")
-            return "/";
-        string res;
-        for (int i = 0; i < p.size() - 1; ++i)
-            res += "/" + p[i];
-        return res;
+        if(canonicalPath == "") return "/";
+        return canonicalPath;
+    }
+
+    bool findNextToken(string& path, int& index, string& token){
+        int n = path.size();
+        while(index < n && path[index] == '/') index++;
+        if(index == n) return false;
+
+        token = "";
+        while(index < n && path[index] != '/'){
+            token += path[index];
+            index++;
+        }
+
+        return true;
     }
 };
