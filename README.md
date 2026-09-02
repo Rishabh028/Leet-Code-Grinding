@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0097-interleaving-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0097-interleaving-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
