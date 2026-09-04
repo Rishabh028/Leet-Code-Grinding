@@ -1,36 +1,26 @@
 class Solution {
 public:
-    int minDistance(std::string word1, std::string word2) {
-        int m = word1.length();
-        int n = word2.length();
-        
-        // Keep word2 as the shorter string to optimize space usage
-        if (m < n) {
-            return minDistance(word2, word1);
+    int solve(string &word1,string &word2, int i, int j, vector<vector<int>>&dp){
+        int n = word1.size();
+        int m = word2.size();
+        if(i==n) return m-j;
+        if(j==m)return n-i;
+        if(dp[i][j]!=-1) return dp[i][j];
+        int same = 1e8, replace = 1e8, insert =1e8, remove = 1e8;
+        if(word1[i] == word2[j]){
+            same = solve(word1, word2, i+1, j+1,dp);
         }
-        
-        // dp array stores the edit distances for the previous row
-        std::vector<int> dp(n + 1);
-        for (int j = 0; j <= n; j++) {
-            dp[j] = j;
+        else{
+            remove = 1+solve(word1, word2, i+1, j,dp);
+            replace = 1+solve(word1, word2, i+1, j+1,dp);
+            insert = 1+solve(word1, word2, i, j+1,dp);
         }
-        
-        for (int i = 1; i <= m; i++) {
-            int prev = dp[0];
-            dp[0] = i;  // Base case for converting word1[:i] to an empty string
-            
-            for (int j = 1; j <= n; j++) {
-                int temp = dp[j];
-                if (word1[i - 1] == word2[j - 1]) {
-                    dp[j] = prev;  // Characters match, no operation needed
-                } else {
-                    // Choose minimum operation among: Delete, Insert, Replace
-                    dp[j] = 1 + std::min({dp[j], dp[j - 1], prev});
-                }
-                prev = temp;
-            }
-        }
-        
-        return dp[n];
+        return dp[i][j] = min({same, remove, insert, replace});
+    }
+    int minDistance(string word1, string word2) {
+        int n = word1.size();
+        int m = word2.size();
+        vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
+        return solve( word1, word2, 0,0,dp);
     }
 };
