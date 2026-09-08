@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0078-subsets) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0078-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
 |  |
