@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0079-word-search) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0079-word-search) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0079-word-search) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## String
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0097-interleaving-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0079-word-search) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
 |  |
