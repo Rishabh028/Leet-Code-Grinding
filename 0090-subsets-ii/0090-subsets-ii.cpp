@@ -1,26 +1,22 @@
 class Solution {
+private:
+    void generate(vector<int>& nums, vector<vector<int>>& subsets, vector<int>& subset, int i) {
+        subsets.push_back(subset);
+        for (int j = i; j < nums.size(); j++) {
+            if (j > i && nums[j] == nums[j - 1]) {
+                continue;
+            }
+            subset.push_back(nums[j]);
+            generate(nums, subsets, subset, j + 1);
+            subset.pop_back();
+        }
+    }
 public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<vector<int>> res;
-        vector<int> subset;
         sort(nums.begin(), nums.end());
-        backtrack(0, nums, subset, res);
-        return res;
-    }
-private:
-    void backtrack(int i, vector<int>& nums, vector<int>& subset, vector<vector<int>>& res) {
-        if (i == nums.size()) {
-            res.push_back(subset);
-            return;
-        }
-        subset.push_back(nums[i]);
-        backtrack(i + 1, nums, subset, res);
-        subset.pop_back();
-
-        while (i + 1 < nums.size() && nums[i] == nums[i + 1]) {
-            i++;
-        }
-
-        backtrack(i + 1, nums, subset, res);
+        vector<vector<int>> subsets;
+        vector<int> subset;
+        generate(nums, subsets, subset, 0);
+        return subsets;
     }
 };
