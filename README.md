@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0097-interleaving-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0093-restore-ip-addresses) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
 |  |
