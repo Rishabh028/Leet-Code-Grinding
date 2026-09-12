@@ -54,15 +54,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0094-binary-tree-inorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0094-binary-tree-inorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0094-binary-tree-inorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Hash Table
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
