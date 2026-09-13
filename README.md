@@ -55,17 +55,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Hash Table
 |  |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0075-sort-colors) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
