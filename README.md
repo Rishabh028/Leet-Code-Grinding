@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0125-valid-palindrome) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
