@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
 |  |
