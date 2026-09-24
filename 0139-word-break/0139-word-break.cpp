@@ -8,7 +8,7 @@ class Solution {
     dp[0] = true;
 
     for (int i = 1; i <= n; ++i)
-      for (int j = i - 1; j >= 0; --j) {
+      for (int j = i; j >= 0; --j) {
         if (i - j > maxLength)
           break;
         if (dp[j] && wordSet.count(s.substr(j, i - j))) {
