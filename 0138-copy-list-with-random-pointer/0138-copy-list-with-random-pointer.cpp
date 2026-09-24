@@ -15,25 +15,24 @@ public:
 */
 
 class Solution {
+    map<Node*, Node > mp;
 public:
     Node* copyRandomList(Node* head) {
-        std::unordered_map<Node*, Node*> hashMap;
-        Node* cur = head;
-
-        while (cur) {
-            hashMap[cur] = new Node(cur->val);
-            cur = cur->next;
-        }
-
-        cur = head;
-
-        while (cur) {
-            Node* copy = hashMap[cur];
-            copy->next = hashMap[cur->next];
-            copy->random = hashMap[cur->random];
-            cur = cur->next;
-        }
-
-        return hashMap[head];        
+        if (!head) return nullptr;
+        unordered_map<Node*, Node*> mp;
+        Node* node = head;
+        while (node) {
+                mp[node] = new Node(node->val);
+                node = node -> next;
+            }
+            node = head;
+            Node* temp = nullptr;
+            while (node) {
+                temp = mp[node];
+                temp -> next = mp[node -> next];
+                temp -> random = mp[node -> random];
+                node = node -> next;
+            }
+            return mp[head];
     }
 };
