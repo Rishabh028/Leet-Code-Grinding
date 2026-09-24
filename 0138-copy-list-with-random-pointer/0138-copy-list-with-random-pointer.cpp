@@ -15,24 +15,36 @@ public:
 */
 
 class Solution {
-    map<Node*, Node > mp;
 public:
     Node* copyRandomList(Node* head) {
-        if (!head) return nullptr;
-        unordered_map<Node*, Node*> mp;
-        Node* node = head;
-        while (node) {
-                mp[node] = new Node(node->val);
-                node = node -> next;
-            }
-            node = head;
-            Node* temp = nullptr;
-            while (node) {
-                temp = mp[node];
-                temp -> next = mp[node -> next];
-                temp -> random = mp[node -> random];
-                node = node -> next;
-            }
-            return mp[head];
+        Node  * temp1 = head;
+       Node * dummy = new Node(-1);
+       Node * temp2= dummy;
+       vector<Node*> index;
+       unordered_map <Node*,int> store;
+       int i=0;
+        while(temp1!=nullptr){
+            int val=temp1->val;
+            temp2->next= new Node (val);
+             
+            temp2=temp2->next;
+            index.push_back(temp2);
+            store.insert({temp1,i});
+            i++;
+            temp1=temp1->next;
+        }
+        temp1=head;
+        temp2=dummy->next;
+        while(temp1!=nullptr){
+            int val=store[temp1->random];
+            if(temp1->random==nullptr){
+                temp2->random=nullptr;
+            }else{
+            temp2->random=index[val];}
+            
+            temp2=temp2->next;
+            temp1=temp1->next;
+        }
+        return dummy->next ;
     }
 };
