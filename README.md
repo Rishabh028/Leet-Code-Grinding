@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Sliding Window
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
 ## Quicksort
 |  |
 | ------- |
@@ -297,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
