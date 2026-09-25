@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0142-linked-list-cycle-ii) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -317,4 +320,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
