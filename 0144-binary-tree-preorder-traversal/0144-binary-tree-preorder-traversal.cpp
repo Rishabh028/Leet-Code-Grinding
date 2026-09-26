@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-    vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> result;
-        preorder(root, result);
-        return result;
+    void preorder(TreeNode* root , vector<int>& pre){
+        if(root == NULL) return ;
+
+        pre.push_back(root->val);
+        preorder(root->left, pre);
+        preorder(root->right, pre);
     }
-private:
-    void preorder (TreeNode* node, vector<int>& res) {
-        if (!node) return ;
-        res.push_back(node -> val);
-        preorder(node -> left, res);
-        preorder(node -> right, res);
+    vector<int> preorderTraversal(TreeNode* root) {
+        vector<int>pre;
+        preorder(root, pre);
+        return pre;
     }
 };
