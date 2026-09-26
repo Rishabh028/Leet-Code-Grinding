@@ -16,12 +16,11 @@ public:
         preorder(root, result);
         return result;
     }
-
 private:
-    void preorder(TreeNode* node, vector<int>& res) {
-        if (!node) return;
-        res.push_back(node->val);       // root
-        preorder(node->left, res);      // left
-        preorder(node->right, res);     // right
+    void preorder (TreeNode* node, vector<int>& res) {
+        if (!node) return ;
+        res.push_back(node -> val);
+        preorder(node -> left, res);
+        preorder(node -> right, res);
     }
 };
