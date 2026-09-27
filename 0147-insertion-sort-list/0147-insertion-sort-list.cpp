@@ -11,21 +11,20 @@
 class Solution {
 public:
     ListNode* insertionSortList(ListNode* head) {
-        ListNode* dummy = new ListNode(0);
-        ListNode* curr = head;
-
-        while (curr != NULL) {
-            ListNode* del = curr -> next;
-            ListNode* prev = dummy;
-
-            while(prev -> next != NULL && prev -> next -> val < curr -> val) {
-            prev = prev -> next;
+        vector<int> v;
+        ListNode* temp=head;
+        while(temp!=NULL){
+            v.push_back(temp->val);
+            temp=temp->next;
         }
-        curr -> next = prev -> next;
-        prev -> next = curr;
-        curr = del;
-
-    }
-    return dummy -> next;
+        sort(v.begin(), v.end());
+        temp=head;
+        int i=0;
+        while(temp!=NULL){
+            temp->val=v[i];
+            i++;
+            temp=temp->next;
+        }
+        return head;
     }
 };
