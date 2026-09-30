@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0190-reverse-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
