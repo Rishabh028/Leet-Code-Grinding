@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0200-number-of-islands) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0200-number-of-islands) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0200-number-of-islands) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## String
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
 | ------- |
