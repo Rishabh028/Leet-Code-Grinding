@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0205-isomorphic-strings) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0205-isomorphic-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
