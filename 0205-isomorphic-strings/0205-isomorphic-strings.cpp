@@ -8,16 +8,13 @@ public:
             if (charIndexS.find(s[i]) == charIndexS.end()) {
                 charIndexS[s[i]] = i;
             }
-
             if (charIndexT.find(t[i]) == charIndexT.end()) {
                 charIndexT[t[i]] = i;
             }
-
             if (charIndexS[s[i]] != charIndexT[t[i]]) {
                 return false;
             }
         }
-
-        return true;        
+        return true;
     }
 };
