@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0203-remove-linked-list-elements) |
 ## Sorting
 |  |
 | ------- |
