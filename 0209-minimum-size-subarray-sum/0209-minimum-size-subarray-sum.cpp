@@ -9,7 +9,7 @@ public:
             curSum += nums[right];
 
             while (curSum >= target) {
-                if (right - left + 1 < minLen) {
+                if (right - left < minLen) {
                     minLen = right - left + 1;
                 }
                 curSum -= nums[left];
