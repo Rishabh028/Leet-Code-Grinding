@@ -1,22 +1,30 @@
 class Solution {
-public:
-    vector<vector<int>> res;
-    void backtrack(int k, int target, int start, vector<int>& path) {
-        if (target == 0 && k == 0) {
-            res.push_back(path);
+    vector<vector<int>> ans;
+    vector<int> path;
+
+    void dfs(int start, int k, int target) {
+        if (k == 0) {
+            if (target == 0)
+                ans.push_back(path);
+
             return;
         }
-        for (int i = start; i <= 9; ++i) {
-            if (i > target || k <= 0) break;
-            path.push_back(i);
-            backtrack(k - 1, target - i, i + 1, path);
+
+        for (int x = start; x <= 9; x++) {
+            if (x > target)
+                break;
+
+            path.push_back(x);
+
+            dfs(x + 1, k - 1, target - x);
+
             path.pop_back();
         }
     }
 
+public:
     vector<vector<int>> combinationSum3(int k, int n) {
-        vector<int> path;
-        backtrack(k, n, 1, path);
-        return res;
+        dfs(1, k, n);
+        return ans;
     }
 };
