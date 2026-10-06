@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0217-contains-duplicate) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 ## Greedy
 |  |
