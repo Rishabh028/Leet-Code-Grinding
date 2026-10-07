@@ -1,32 +1,45 @@
 class Solution {
 public:
     vector<vector<int>> getSkyline(vector<vector<int>>& buildings) {
+
+        vector<tuple<int, int, int>> events;
+
+        for (auto &b : buildings) {
+            events.push_back({b[0], -b[2], b[1]});
+            events.push_back({b[1], b[2], b[1]});
+        }
+
+        sort(events.begin(), events.end());
+
+        priority_queue<pair<int, int>> pq;
+
+        pq.push({0, INT_MAX});
+
         vector<vector<int>> ans;
-        multiset<int> pq{0};
+        int prevHeight = 0;
 
-        vector<pair<int, int>> points;
+        for (auto &[x, h, right] : events) {
 
-        for(auto b : buildings) {
-            points.push_back({b[0], -b[2]});
-            points.push_back({b[1], b[2]});
-        }
-        sort(points.begin(), points.end());
-        int ongoingHeight = 0;
-        for(int i = 0; i < points.size(); i++) {
-            int currentPoint = points[i].first;
-            int heightAtCurrentPoint = points[i].second;
-            if(heightAtCurrentPoint < 0) {
-                pq.insert(-heightAtCurrentPoint);
+            while (!pq.empty() && pq.top().second <= x) {
+                pq.pop();
             }
-            else {
-                pq.erase(pq.find(heightAtCurrentPoint));
+
+            if (h < 0) {
+                pq.push({-h, right});
             }
-            auto pqTop = *pq.rbegin();
-            if(ongoingHeight != pqTop) {
-                ongoingHeight = pqTop;
-                ans.push_back({currentPoint, ongoingHeight});
+
+            while (!pq.empty() && pq.top().second <= x) {
+                pq.pop();
+            }
+
+            int currHeight = pq.top().first;
+
+            if (currHeight != prevHeight) {
+                ans.push_back({x, currHeight});
+                prevHeight = currHeight;
             }
         }
+
         return ans;
     }
 };
