@@ -1,45 +1,27 @@
 class Solution {
 public:
     vector<vector<int>> getSkyline(vector<vector<int>>& buildings) {
+        vector<vector<int>> res;
+        priority_queue<pair<int, int>> pq; 
+        int i = 0, n = buildings.size();
 
-        vector<tuple<int, int, int>> events;
+        while (i < n || !pq.empty()) {
+            int x;
+            if (pq.empty() || (i < n && buildings[i][0] <= pq.top().second)) {
+                x = buildings[i][0];        
+            } else {
+                x = pq.top().second;       
+            }
 
-        for (auto &b : buildings) {
-            events.push_back({b[0], -b[2], b[1]});
-            events.push_back({b[1], b[2], b[1]});
+            while (i < n && buildings[i][0] == x) {
+                pq.push({buildings[i][2], buildings[i][1]});
+                i++;
+            }
+            while (!pq.empty() && pq.top().second <= x) pq.pop(); 
+
+            int h = pq.empty() ? 0 : pq.top().first;
+            if (res.empty() || res.back()[1] != h) res.push_back({x, h});
         }
-
-        sort(events.begin(), events.end());
-
-        priority_queue<pair<int, int>> pq;
-
-        pq.push({0, INT_MAX});
-
-        vector<vector<int>> ans;
-        int prevHeight = 0;
-
-        for (auto &[x, h, right] : events) {
-
-            while (!pq.empty() && pq.top().second <= x) {
-                pq.pop();
-            }
-
-            if (h < 0) {
-                pq.push({-h, right});
-            }
-
-            while (!pq.empty() && pq.top().second <= x) {
-                pq.pop();
-            }
-
-            int currHeight = pq.top().first;
-
-            if (currHeight != prevHeight) {
-                ans.push_back({x, currHeight});
-                prevHeight = currHeight;
-            }
-        }
-
-        return ans;
+        return res;
     }
 };
