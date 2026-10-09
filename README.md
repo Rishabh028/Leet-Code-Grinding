@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0220-contains-duplicate-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0220-contains-duplicate-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 ## Greedy
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0220-contains-duplicate-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
@@ -403,4 +406,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
