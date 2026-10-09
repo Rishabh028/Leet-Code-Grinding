@@ -1,23 +1,50 @@
 class Solution {
 public:
-    bool containsNearbyAlmostDuplicate(vector<int>& nums,int indexDiff,int valueDiff) {
+    bool containsNearbyAlmostDuplicate(vector<int>& nums, int indexDiff, int valueDiff) {
 
-        set<long long> s;
-        for(int i = 0; i < nums.size(); i++) {
-            auto it = s.lower_bound(
-                (long long)nums[i] - valueDiff
-            );
-            if(it != s.end() &&
-               *it <= (long long)nums[i] + valueDiff) {
-                return true;
-            }
-            s.insert(nums[i]);
+            int n = nums.size();
 
-            if(i >= indexDiff) {
-                s.erase(nums[i - indexDiff]);
+            int id = indexDiff, vd = valueDiff;
+
+            set<int> st;
+
+            st.insert(nums[0]);
+
+            for(int i=1 ; i<=min(id, n-1) ; i++){
+
+                int l = nums[i] - vd, r = nums[i] + vd;
+
+                auto it1 = st.lower_bound(l);
+
+                if(it1 != st.end()){
+
+                    if((*it1) <= r) return true;
+
+                }
+
+                st.insert(nums[i]);
+
             }
+
+            for(int i=1, j=id+1 ; j<n ; i++, j++){
+
+                st.erase(nums[i-1]);
+
+                int l = nums[j] - vd, r = nums[j] + vd;
+
+                auto it1 = st.lower_bound(l);
+
+                if(it1 != st.end()){
+
+                    if((*it1) <= r) return true;
+
+                }
+
+                st.insert(nums[j]);
+
+            }
+
+            return false;
+
         }
-
-        return false;
-    }
 };
