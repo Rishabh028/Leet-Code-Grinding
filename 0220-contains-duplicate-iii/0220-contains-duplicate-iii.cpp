@@ -1,23 +1,23 @@
 class Solution {
 public:
-    bool containsNearbyAlmostDuplicate(vector<int>& nums, int indexDiff, int valueDiff) {
-        int n = nums.size();
-        multiset<int> ms;
+    bool containsNearbyAlmostDuplicate(vector<int>& nums,int indexDiff,int valueDiff) {
 
-        int i = 0;
-        int j = 0;
-        while ( j < n) {
-            auto up = ms.upper_bound(nums[j]);
-            if ((up != ms.end() and *up-nums[j] <= valueDiff) || (up != ms.begin() and nums[j] - *(--up) <= valueDiff))
-            return true;
-            ms.insert(nums[j]);
-
-            if (ms.size() == indexDiff + 1) {
-                ms.erase(nums[i]);
-                i++;
+        set<long long> s;
+        for(int i = 0; i < nums.size(); i++) {
+            auto it = s.lower_bound(
+                (long long)nums[i] - valueDiff
+            );
+            if(it != s.end() &&
+               *it <= (long long)nums[i] + valueDiff) {
+                return true;
             }
-            j++;
+            s.insert(nums[i]);
+
+            if(i >= indexDiff) {
+                s.erase(nums[i - indexDiff]);
+            }
         }
+
         return false;
     }
 };
