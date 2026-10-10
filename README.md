@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0222-count-complete-tree-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0222-count-complete-tree-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Hash Table
 |  |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
 | ------- |
