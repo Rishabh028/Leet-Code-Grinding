@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -415,4 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0220-contains-duplicate-iii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
