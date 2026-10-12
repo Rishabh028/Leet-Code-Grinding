@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0220-contains-duplicate-iii) |
+| [0228-summary-ranges](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0228-summary-ranges) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
