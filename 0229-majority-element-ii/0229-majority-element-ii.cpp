@@ -1,17 +1,30 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        vector<int> ans;
-        int n = nums.size();
-        for (auto it : nums) {
-            mp[it]++;
-        }
-        for (auto it : mp) {
-            if (it.second > n/3) {
-                ans.push_back(it.first);
+
+        int count=floor(nums.size()/3)+1;
+        sort(nums.begin(),nums.end());
+        vector<int>answer;
+        int currentCount=1;
+        int currentElement=nums[0];
+        for(int i=1;i<nums.size();i++) {
+
+            if(currentElement==nums[i]) {
+                currentCount+=1;
+            }else{
+                if(currentCount>=count) {
+                    answer.push_back(currentElement);
+                }
+                currentElement=nums[i];
+                currentCount=1;
             }
+
         }
-        return ans;
+        if(currentCount>=count) {
+            answer.push_back(currentElement);
+        }
+    
+        return answer;
+
     }
 };
