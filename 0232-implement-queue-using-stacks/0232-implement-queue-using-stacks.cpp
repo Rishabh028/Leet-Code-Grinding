@@ -1,34 +1,42 @@
 class MyQueue {
 private:
-    stack<int> input;
-    stack<int> output;    
-
+    std::stack<int> input;
+    std::stack<int> output;
 public:
-    MyQueue() {}
-
+    MyQueue() {
+    }
+    
     void push(int x) {
         input.push(x);
     }
-
-    int pop() {
-        peek();
-        int val = output.top();
-        output.pop();
-        return val;
-    }
-
-    int peek() {
-        if (output.empty()) {
-            while (!input.empty()) {
+    void transfer(){
+        if (output.empty()){
+            while (!input.empty()){
                 output.push(input.top());
                 input.pop();
             }
         }
+    }
+    int pop() {
+        if (empty()){
+            throw std::runtime_error("Queue is empty");
+        }
+        transfer();
+        int temp = output.top();
+        output.pop();
+        return temp;
+    }
+    
+    int peek() {
+        if (empty()){
+            throw std::runtime_error("Queue is empty");
+        }
+        transfer();
         return output.top();
     }
-
+    
     bool empty() {
-        return input.empty() && output.empty();
+        return output.empty() && input.empty();
     }
 };
 
