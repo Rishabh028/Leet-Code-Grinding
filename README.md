@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0231-power-of-two) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
