@@ -10,17 +10,20 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-        vector<int> vals;
-        while (head != nullptr) {
-            vals.push_back(head -> val);
-            head = head -> next;
+      bool isPalindrome(ListNode* head) {
+        stack<int> s;
+        ListNode* temp=head;
+        while(temp!=NULL){
+            s.push(temp->val);
+            temp=temp->next;
         }
-        int n = vals.size();
-        for (int i = 0; i < n / 2; i++) {
-            if (vals[i] != vals[n - 1 - i]) {
+        temp=head;
+        while(!s.empty()){
+            if(temp->val!=s.top()){
                 return false;
             }
+            temp=temp->next;
+            s.pop();
         }
         return true;
     }
