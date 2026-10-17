@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0241-different-ways-to-add-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0241-different-ways-to-add-parentheses) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Sliding Window
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0241-different-ways-to-add-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -373,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0241-different-ways-to-add-parentheses) |
 ## Quicksort
 |  |
 | ------- |
