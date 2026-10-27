@@ -3,7 +3,7 @@ public:
     int nthUglyNumber(int n) {
       if (n <= 0) return false;
       if (n == 1) return true;
-      int t2 = 0; t3 = 0, t5 = 0;
+      int t2 = 0, t3 = 0, t5 = 0;
       vector<int> k(n);
       k[0] = 1;
 
