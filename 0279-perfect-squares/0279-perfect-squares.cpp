@@ -1,19 +1,14 @@
 class Solution {
 public:
     int numSquares(int n) {
-        if (n <= 0) {
-            return 0;
-        }
-        static vector<int> cntPerfectSquares({0});
+        vector<int> dp(n + 1, n);
+        dp[0] = 0;
 
-        while (cntPerfectSquares.size() <= n) {
-            int m = cntPerfectSquares.size();
-            int cntSquares = INT_MAX;
-            for (int i = 1; i*i <= m; i++) {
-                cntSquares = min(cntSquares, cntPerfectSquares[m - i*i] + 1);
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j * j <= i; j++) {
+                dp[i] = min(dp[i], dp[i - j * j] + 1);
             }
-            cntPerfectSquares.push_back(cntSquares);
         }
-        return cntPerfectSquares[n];
+        return dp[n];
     }
 };
