@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
