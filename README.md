@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0290-word-pattern) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0290-word-pattern) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
