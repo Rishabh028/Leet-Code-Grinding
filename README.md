@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 ## Greedy
 |  |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0295-find-median-from-data-stream) |
 ## Binary Search
 |  |
 | ------- |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -499,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0287-find-the-duplicate-number) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
