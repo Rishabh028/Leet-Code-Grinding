@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0303-range-sum-query-immutable) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Stack
 |  |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
