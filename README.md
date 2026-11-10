@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0303-range-sum-query-immutable) |
+| [0313-super-ugly-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0313-super-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0282-expression-add-operators) |
+| [0313-super-ugly-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0313-super-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0313-super-ugly-number) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Sliding Window
