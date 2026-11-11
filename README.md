@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0313-super-ugly-number) |
+| [0326-power-of-three](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
 | ------- |
