@@ -20,7 +20,7 @@ public:
         while (even != nullptr && even->next != nullptr) {
             odd->next = even->next;
             odd = odd->next;
-            even->next = even->next->next;
+            even->next = even->next;
             even = even->next;
         }
 
