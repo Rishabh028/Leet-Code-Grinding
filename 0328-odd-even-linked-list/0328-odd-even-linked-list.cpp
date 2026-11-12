@@ -11,20 +11,41 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        if (head == nullptr || head->next == nullptr) return head;
 
-        ListNode* odd = head;
-        ListNode* even = head->next;
-        ListNode* evenHead = even;
+        if (head == NULL || head->next == NULL)
+            return head;
 
-        while (even != nullptr && even->next != nullptr) {
-            odd->next = even->next;
-            odd = odd->next;
-            even->next = even->next->next;
-            even = even->next;
+        // Create dummy nodes for odd and even lists
+        ListNode oddDummy(0);
+        ListNode evenDummy(0);
+
+        ListNode* odd = &oddDummy;
+        ListNode* even = &evenDummy;
+
+        ListNode* temp = head;
+        int pos = 1;
+
+        while (temp != NULL) {
+
+            ListNode* nextNode = temp->next;
+
+            if (pos % 2 == 1) {
+                odd->next = temp;
+                odd = odd->next;
+            }
+            else {
+                even->next = temp;
+                even = even->next;
+            }
+
+            temp = nextNode;
+            pos++;
         }
 
-        odd->next = evenHead; 
-        return head;
+        even->next = NULL;
+
+        odd->next = evenDummy.next;
+
+        return oddDummy.next;
     }
 };
