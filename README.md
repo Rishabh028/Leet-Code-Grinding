@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Tree
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0313-super-ugly-number) |
+| [0338-counting-bits](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0338-counting-bits) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Sliding Window
