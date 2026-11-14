@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0226-invert-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0341-flatten-nested-list-iterator) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0226-invert-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0341-flatten-nested-list-iterator) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0341-flatten-nested-list-iterator) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -485,11 +488,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0303-range-sum-query-immutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0341-flatten-nested-list-iterator) |
 ## Counting
 |  |
 | ------- |
@@ -518,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0295-find-median-from-data-stream) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
