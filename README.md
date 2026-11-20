@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0303-range-sum-query-immutable) |
 | [0313-super-ugly-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0349-intersection-of-two-arrays) |
 | [1980-find-unique-binary-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 ## Greedy
 |  |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh028/Leet-Code-Grinding/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
