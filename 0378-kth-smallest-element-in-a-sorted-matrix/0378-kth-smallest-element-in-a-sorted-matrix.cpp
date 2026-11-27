@@ -1,36 +1,38 @@
 class Solution {
 public:
-    int countElements(vector<vector<int>> &matrix, int target) {
-        int n = matrix.size();
-        int count = 0, row = n - 1, col = 0;
-
-        while (row >= 0 && col < n) {
-            if (matrix[row][col] <= target) {
-                count += (row + 1);
-                col++;
-            } else {
-                row--;
-            }
-        }
-        return count;
-    }
-
     int kthSmallest(vector<vector<int>>& matrix, int k) {
-        int n = matrix.size();
-        int low = matrix[0][0], high = matrix[n - 1][n - 1];
-        int ans = 0;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            int count = countElements(matrix, mid);
-
-            if (count >= k) {
-                ans = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
-            }
+        int m = matrix.size();
+        int n = matrix[0].size();
+        vector<int> arr(m * n);
+        int cnt = 0;
+        for (int i = 0; i < m; ++i)
+            for (int j = 0; j < n; ++j)
+                arr[cnt++] = matrix[i][j];
+        return quickSelect(arr, 0, cnt - 1, k);
+    }
+private:
+    void swap(vector<int>& arr, int i, int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+    int partition(vector<int>& arr, int l, int r) {
+        int pivot = l + (r - l) / 2;
+        swap(arr, pivot, r);
+        int placed = l;
+        for (int i = l; i < r; ++i)
+            if (arr[i] < arr[r])
+                swap(arr, i, placed++);
+        swap(arr, placed, r);
+        return placed;
+    }
+    int quickSelect(vector<int>& arr, int l, int r, int k) {
+        while (l < r) {
+            int m = partition(arr, l, r);
+            if (m == k - 1) break;
+            else if (m < k - 1) l = m + 1;
+            else r = m - 1;
         }
-        return ans;
+        return arr[k - 1];
     }
 };
